@@ -1,0 +1,24 @@
+body {
+    background-color: #6C5CE7;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 50px auto 0;
+    padding: 30px 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    color: black;
+    width: 290px;
+    border-radius: 5px;
+}
+
+.result:hover a {
+    opacity: 1 !important;
+}
+
+.resultContainer {
+    width: 280px;
+}
